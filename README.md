@@ -16,9 +16,9 @@ Estudiante de **42** con formación en **Filosofía**, centrado en el desarrollo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## 📌 Proyectos destacados
-- **[A_maze_ing]((https://github.com/Sephirune/A_maze_ing42))**: Generador de laberintos en python empleando MLX.
-- **[Fly_in]((https://github.com/Sephirune/Fly-in))**: Simulador de vuelo de drones.
-- **[Codexion]((https://github.com/Sephirune/codexion))**: Simulación de concurrencia basado en el clásico problema de los filósofos.
+- **[A_maze_ing](https://github.com/Sephirune/A_maze_ing42)**: Generador de laberintos en Python empleando MLX.
+- **[Fly_in](https://github.com/Sephirune/Fly-in)**: Simulador de vuelo de drones.
+- **[Codexion](https://github.com/Sephirune/codexion)**: Simulación de concurrencia basada en el clásico problema de los filósofos.
 
 ## 🌍 Idiomas
 Español (nativo) · Inglés (avanzado)
