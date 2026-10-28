@@ -4,7 +4,7 @@
 
 # Buenos días, buenas tardes y buenas noches. Soy Aarón 👋
 
-Estudiante de **42** con formación en **Filosofía**, centrado en el desarrollo de software. Me interesa entender cómo funcionan las cosas por debajo y escribir código claro y mantenible.
+Estudiante de **42** con formación en **Filosofía**, centrado en el desarrollo de software. Interesado en el backend y en escribir código claro y mantenible.
 
 ## 🛠️ Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
